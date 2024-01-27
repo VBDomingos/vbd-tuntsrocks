@@ -6,10 +6,11 @@ Pré-requisitos
     Python 3.x
     Biblioteca gspread (pip install gspread)
     Uma Planilha Google com dados dos alunos, como fornecido pela Tunts.Rocks
-    Uma conta de serviço do Google Cloud Platform com acesso à Planilha Google (credenciais fornecidas até conclusão do processo seletivo)
+    Uma conta de serviço do Google Cloud Platform com acesso à Planilha Google (credenciais fornecidas são apenas exemplos, é necessário gerar uma API key e alterar o código por motivos de segurança)
 
 Usagem
 
+    Alterar caminho do .json no código para sua própria chave
     pip install gspread
     python grade_evaluator.py
 
