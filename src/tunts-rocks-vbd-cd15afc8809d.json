@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "tunts-rocks-vbd",
+  "private_key_id": "cd15afc8809d4a905d3be49f0f703069c74a3ff5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDeMKeHHIfddOti\n2kc02lP1YXXadjvF89HOB7kJKpaOwMw76dXb2TY+/3YZYaE8kb8guk/zMVp0Zwef\nnKwszmEfs3NADeptt+OT6geRND57DuvxwQgBh71GfmWNA+VUV5cHHHkoMNO1JND0\ntXMOZchUWu6pgZ4GesvdfuuwZOnns/mBugzFbo8YfwBi7uufmmgjJmgZjrg0O5gr\n+jqkncXnRlLxgYfROLCKf/R5Eb08mYjtHaoQyFB1E451Fs8YivVb+4eZ+msl+DF7\nFqzYaLnd58XLdnC1z3PDGzBS2W3vIjCj0Mr4bBnGNJOuLic1L7V5jYQvAqBuuwIi\nPMxPNqcXAgMBAAECggEAFGjbuqmAQXNv+9CZId28QJoHPV4G95QB/a7v7EuhMNO8\n7vP31Q4K0Zadvo8dRHcO227B0VEDQhYEuUCnACak/Uh6mbOtiQ6PNRMWRtxJsPwZ\n6EcW+S0C0eriYSWudyTklp6i8nIpwEX1e8T/IJ9w227O5XsmjOnSuDHkbHuYkNPn\nj5kS28UBs3bmGBhdJ1vCj3KpAue0Woq4iJ2yIRT6D1iR35z+LWHCput6HZTXSm5b\nx6MPzdhMowR3wDZ5tImyKrg3ykdww/bFKMQjRS1I3BZOt347lQemp1vho9sDBzH1\n3JZm3wnVXjppusfxk92umWNDkEW1GHYdDzAMabnV4QKBgQD0FcXQF3dSX9wEV+ZA\ndy8kTvWtH/pWjrvSyY7bGMJiHMaLz6tBpb558qMHFN55XcKr+3sEau0z7zUdrP6M\n7HxW1PKexAK+3YE8g35QrWlVcC3mdtoky9MuoMoZbpLQyf8cKKTbItwFSx2DTrPg\nH0Sj6S15vlFHlVWh2GdQURrSfQKBgQDpCUTuDsIagtwSXnLB9op7UKbCkBZefTmP\nJp6gaAEEsQreFn0Q0+DztxIf3bIfVHpnqQ1SxVHn0jJaISHfYtrLPvsx31sNQ+RI\ngX2nIEH8GWRc9STtB52JufAXEq9xVenhrt7nm7Lu4tw2FZVO6xWoputP3E/SYNQ3\naL61PaFgIwKBgDDMAYX+iv5O579+iyusKCKMHpWD5RpU4rvbS9IFeyb+NbtRwx0W\ns6PRnEIYK/n7gqW7WvahIdbWJbpPEXy+8oSxgee3rAzYX7PnXeNnJ73K9YIzlJzy\nmr+hqYW4E2XmXDgW8A5XQ8FTKQ1NOKy/04spXMwP/lPfSQVYLB9kd4ZJAoGAJnzp\nbYfydv516nK+8VoOtR80651wlFqKTyJJwKRsxqGW8ec08LqNxLLPw4OSD6qcLNK2\n6Jy+UlNdDZW7SnHBQSA9zJbfKumzomYAosGpJEHtWY0DdEJ1unGDPcxQPZ+66RNA\nrXABtYKybBxUdJxPD3PCGYaBiHWFl0EtfjGXnZECgYEA2lO42fCi8djYS2Nf5SyR\nzLk+WDkjkw/sl2c7qxJR2BV1V5T0QG2uTt3jODmRS3sAUdUI4GhpleOpQimQ/+vY\nat+k3J/9y2vjCp6+uo39gCqmzZwi3NncgaSJWp3A5DSFPbLyL62fJAUkDVRpx58s\nmc4P/Yzm8M1IuweorpUQbMA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "tunts-rocks@tunts-rocks-vbd.iam.gserviceaccount.com",
+  "client_id": "105524525839514650186",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tunts-rocks%40tunts-rocks-vbd.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
